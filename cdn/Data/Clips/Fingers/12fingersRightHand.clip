@@ -1,0 +1,7 @@
+{
+    "Description": "ладонь раскрыта, безымянный палец согнут, остальные выпрямлены - (12)",
+    "IconForClip": "Fingers\\12.png",
+    "ModelAnimaitionTextFile": "Fingers\\12fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

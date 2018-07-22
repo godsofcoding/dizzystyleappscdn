@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне правого уха (8)",
+    "IconForClip": "HowTo\\8.png",
+    "ModelAnimaitionTextFile": "HowTo\\8HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

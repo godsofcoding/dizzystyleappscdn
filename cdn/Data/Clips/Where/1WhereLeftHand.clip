@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне плечперед собой (1)",
+    "IconForClip": "Where\\1.png",
+    "ModelAnimaitionTextFile": "Where\\1WhereLeftHand.animation",
+    "ClipType": 4,
+    "HandType": 0
+}

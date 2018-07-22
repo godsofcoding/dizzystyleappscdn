@@ -1,0 +1,7 @@
+{
+    "Description": "Правая рука",
+    "IconForClip": "Service\\Right.png",
+    "ModelAnimaitionTextFile": "Service\\Righthand.animation",
+    "ClipType": 6,
+    "HandType": 1
+}

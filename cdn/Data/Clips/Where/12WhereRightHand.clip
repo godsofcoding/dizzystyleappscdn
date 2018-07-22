@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне груди без касания - (12)",
+    "IconForClip": "Where\\12.png",
+    "ModelAnimaitionTextFile": "Where\\12WhereRightHand.animation",
+    "ClipType": 4,
+    "HandType": 1
+}

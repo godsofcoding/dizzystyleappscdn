@@ -1,0 +1,7 @@
+{
+    "Description": "безымянный палец и мизинец прижаты к ладони, большой, указательный и средний вытянуты в горизоньальном положении - (25)",
+    "IconForClip": "Fingers\\25.png",
+    "ModelAnimaitionTextFile": "Fingers\\25fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

@@ -1,0 +1,11 @@
+{
+    "Description": "500 (пятьсот)- (9-3-8-П-18-4)",
+    "modelClips": [
+        "Fingers\\9fingersRightHand.clip",
+        "Palm\\3PalmRightHand.clip",
+        "HowTo\\8HowToRightHand.clip",
+        "Service\\Pause.clip",
+        "Fingers\\18fingersRightHand.clip",
+        "Trend\\4TrendRightHand.clip"
+    ]
+}

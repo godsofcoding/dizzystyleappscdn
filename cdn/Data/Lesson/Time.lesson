@@ -1,0 +1,10 @@
+{
+    "Name": "Время",
+    "AdditionalPath": "Время\\",
+    "Description": "Времена длинное описание",
+	"ShortDescription": "Времена",
+    "notations": [
+        "Воскресенье",
+        "Вторник"
+    ]
+}

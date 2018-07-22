@@ -1,0 +1,10 @@
+{
+    "Description": "У- буква (36)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\36fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip"
+    ]
+}

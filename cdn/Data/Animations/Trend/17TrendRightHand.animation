@@ -1,0 +1,76 @@
+{
+    "Description": "",
+    "PlayMode": 1,
+    "curves": [
+        {
+            "TargetName": "RightForeArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "time": 0.1,
+                    "howToChange": 1
+                },
+
+                {
+                    "angle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 5.0
+                    },
+                    "time": 0.2,
+                    "howToChange": 1
+                },
+                {
+                    "angle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -5.0
+                    },
+                    "time": 0.4,
+                    "howToChange": 1
+                },
+                {
+                    "angle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 5.0
+                    },
+                    "time": 0.6,
+                    "howToChange": 1
+                },
+                {
+                    "angle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -5.0
+                    },
+                    "time": 0.8,
+                    "howToChange": 1
+                },
+                {
+                    "angle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 5.0
+                    },
+                    "time": 1.0,
+                    "howToChange": 1
+                },
+                {
+                    "angle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "time": 1.2,
+                    "howToChange": 1
+                }
+
+            ]
+        }
+    ]
+}

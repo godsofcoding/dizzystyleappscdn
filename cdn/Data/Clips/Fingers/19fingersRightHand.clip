@@ -1,0 +1,7 @@
+{
+    "Description": "большой палец прижат к ладони, остальные полусогннуты - (19)",
+    "IconForClip": "Fingers\\19.png",
+    "ModelAnimaitionTextFile": "Fingers\\19fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

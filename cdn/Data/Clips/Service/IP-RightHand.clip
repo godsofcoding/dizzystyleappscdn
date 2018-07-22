@@ -1,0 +1,7 @@
+{
+    "Description": "Исходное положение",
+    "IconForClip": "Service\\IP.png",
+    "ModelAnimaitionTextFile": "Service\\startState.animation",
+    "ClipType": 6,
+    "HandType": 1
+}

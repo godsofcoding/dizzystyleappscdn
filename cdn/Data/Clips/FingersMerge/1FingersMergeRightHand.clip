@@ -1,0 +1,7 @@
+{
+    "Description": "вниз (1)",
+    "IconForClip": "FingersMerge\\1.png",
+    "ModelAnimaitionTextFile": "FingersMerge\\1FingersMergeRightHand.animation",
+    "ClipType": 1,
+    "HandType": 1
+}

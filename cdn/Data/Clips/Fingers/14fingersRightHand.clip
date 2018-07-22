@@ -1,0 +1,7 @@
+{
+    "Description": "кулак, указательный палец огибает большой - (14)",
+    "IconForClip": "Fingers\\14.png",
+    "ModelAnimaitionTextFile": "Fingers\\14fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

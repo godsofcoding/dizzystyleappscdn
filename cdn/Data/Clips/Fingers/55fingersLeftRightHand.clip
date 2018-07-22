@@ -1,0 +1,7 @@
+{
+    "Description": "шепоть (все пальцы соединены подушечками) (55)",
+    "IconForClip": "Fingers\\55.png",
+    "ModelAnimaitionTextFile": "Fingers\\17fingerLeftRightHand.animation",
+    "ClipType": 0,
+    "HandType": 2
+}

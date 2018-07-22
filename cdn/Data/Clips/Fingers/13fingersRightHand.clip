@@ -1,0 +1,7 @@
+{
+    "Description": "мизинец и безымянный пальцы прижаты к ладони, средний, указательный и большой соединены подушечками - (13)",
+    "IconForClip": "Fingers\\13.png",
+    "ModelAnimaitionTextFile": "Fingers\\13fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

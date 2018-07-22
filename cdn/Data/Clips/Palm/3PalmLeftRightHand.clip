@@ -1,0 +1,7 @@
+{
+    "Description": "к себе (3)",
+    "IconForClip": "Palm\\3.png",
+    "ModelAnimaitionTextFile": "Palm\\3PalmLeftRightHand.animation",
+    "ClipType": 3,
+    "HandType": 2
+}

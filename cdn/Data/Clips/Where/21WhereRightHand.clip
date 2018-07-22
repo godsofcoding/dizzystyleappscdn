@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне талии без касанием с правой сторон",
+    "IconForClip": "Where\\21.png",
+    "ModelAnimaitionTextFile": "Where\\21WhereRightHand.animation",
+    "ClipType": 4,
+    "HandType": 1
+}

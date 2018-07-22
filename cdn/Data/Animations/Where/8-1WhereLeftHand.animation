@@ -1,0 +1,48 @@
+{
+    "Description": "",
+    "PlayMode": 0,
+    "curves": [
+        {
+            "TargetName": "LeftShoulder",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 74.32368469238281,
+                        "y": 18.630929946899415,
+                        "z": 138.70176696777345
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 20.584928512573243,
+                        "y": -30.816650390625,
+                        "z": -37.91632080078125
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftForeArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": -0.0000017075473124350538,
+                        "y": -39.16778564453125,
+                        "z": -122.02677917480469
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        }
+    ]
+}

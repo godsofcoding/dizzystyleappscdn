@@ -1,0 +1,7 @@
+{
+    "Description": "обратимое движение запястья влево-вправо повторяющееся (96)",
+    "IconForClip": "Trend\\96.png",
+    "ModelAnimaitionTextFile": "Trend\\96TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

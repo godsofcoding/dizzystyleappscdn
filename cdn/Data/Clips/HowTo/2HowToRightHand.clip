@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне лба",
+    "IconForClip": "HowTo\\2.png",
+    "ModelAnimaitionTextFile": "HowTo\\2HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

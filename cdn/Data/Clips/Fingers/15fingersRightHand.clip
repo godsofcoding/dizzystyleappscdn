@@ -1,0 +1,7 @@
+{
+    "Description": "кулак, большой и указательный пальцы соединены подушечками - (15)",
+    "IconForClip": "Fingers\\15.png",
+    "ModelAnimaitionTextFile": "Fingers\\15fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "ладонь раскрыта, большой, безымянный и мизинец соединены, прижаты к ладони, остальные пальцы полусогнуты - (21)",
+    "IconForClip": "Fingers\\21.png",
+    "ModelAnimaitionTextFile": "Fingers\\21fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

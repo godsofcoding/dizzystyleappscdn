@@ -1,0 +1,7 @@
+{
+    "Description": "указательный и большой палец выпрямлены, остальные прижаты к ладони - (4)",
+    "IconForClip": "Fingers\\4.png",
+    "ModelAnimaitionTextFile": "Fingers\\4fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

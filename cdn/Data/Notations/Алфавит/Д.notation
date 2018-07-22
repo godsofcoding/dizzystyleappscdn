@@ -1,0 +1,9 @@
+{
+    "Description": "Д- буква (53-1- 67-1)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\53fingersRightHand.clip",
+        "Where\\1WhereRightHand.clip",
+        "Trend\\67-1TrendRightHand.clip"
+    ]
+}

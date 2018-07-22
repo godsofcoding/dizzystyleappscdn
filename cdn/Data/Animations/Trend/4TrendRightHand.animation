@@ -1,0 +1,20 @@
+{
+    "Description": "",
+    "PlayMode": 1,
+    "curves": [
+        {
+            "TargetName": "RightArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 3.658916473388672,
+                        "y": 29.271503448486329,
+                        "z": -3.6589202880859377
+                    },
+                    "time": 1.0,
+                    "howToChange": 1
+                }
+            ]
+        }
+    ]
+}

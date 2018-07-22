@@ -1,0 +1,7 @@
+{
+    "Description": "средний палец лежит на прямом указательном, остальные прижаты к ладони большим пальцем (42)",
+    "IconForClip": "Fingers\\42.png",
+    "ModelAnimaitionTextFile": "Fingers\\42fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

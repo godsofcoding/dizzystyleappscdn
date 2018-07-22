@@ -1,0 +1,83 @@
+{
+    "Description": "",
+    "curves": [
+        {
+            "TargetName": "RightArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 20.841039657592775,
+                        "y": 46.653160095214847,
+                        "z": 46.46623992919922
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightForeArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": -5.506072998046875,
+                        "y": -11.0113525390625,
+                        "z": 113.03312683105469
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHand",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 40.374446868896487,
+                        "y": -66.36807250976563,
+                        "z": -5.3997802734375
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftForeArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 73.407958984375,
+                        "y": -11.31219482421875,
+                        "z": -80.00003051757813
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHand",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 44.04473876953125,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 54.42047119140625,
+                        "y": -16.086456298828126,
+                        "z": -38.66986083984375
+                    },
+                    "time": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "указательный палец полусогнут, остальные собраны в кулак (38)",
+    "IconForClip": "Fingers\\38.png",
+    "ModelAnimaitionTextFile": "Fingers\\38fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "под углом влево вниз (13)",
+    "IconForClip": "Trend\\13.png",
+    "ModelAnimaitionTextFile": "Trend\\13TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

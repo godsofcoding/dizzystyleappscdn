@@ -1,0 +1,216 @@
+{
+    "Description": "",
+    "PlayMode": 0,
+    "curves": [
+        {
+            "TargetName": "RightHandRing2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 66.06763458251953,
+                        "y": 150.52308654785157,
+                        "z": 155.0
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandThumb2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.01,
+                        "y": 0.01,
+                        "z": -19.719512939453126
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandMiddle2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 70.067138671875,
+                        "y": 179.73414611816407,
+                        "z": 178.52418518066407
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandThumb3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.01,
+                        "y": 0.01,
+                        "z": -54.469482421875
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandRing3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 84.23918151855469,
+                        "y": 0.009999999776482582,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandThumb1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 38.41871643066406,
+                        "y": 58.542850494384769,
+                        "z": 18.29458999633789
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandPinky2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 72.27114868164063,
+                        "y": 135.2240447998047,
+                        "z": 146.6356964111328
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandIndex2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 67.81999206542969,
+                        "y": 9.545737266540528,
+                        "z": -5.660003662109375
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandIndex3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 23.783048629760743,
+                        "y": 2.3325135600771319e-7,
+                        "z": 4.594552516937256
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandPinky3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 75.53860473632813,
+                        "y": 127.52930450439453,
+                        "z": 142.7010040283203
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandMiddle3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 4.201807975769043,
+                        "y": 175.54319763183595,
+                        "z": 177.99659729003907
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandPinky1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 70.23212432861328,
+                        "y": 180.0,
+                        "z": 170.0
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandIndex1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 2.340167999267578,
+                        "y": -0.7860107421875,
+                        "z": 0.0
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandRing1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 85.62385559082031,
+                        "y": 177.78802490234376,
+                        "z": 178.53282165527345
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHandMiddle1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 78.55736541748047,
+                        "y": 175.1632537841797,
+                        "z": 168.96084594726563
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        }
+    ]
+}

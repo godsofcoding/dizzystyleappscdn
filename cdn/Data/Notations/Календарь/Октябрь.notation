@@ -1,0 +1,10 @@
+{
+    "Description": "октябрь (33- 8-14)",
+    "modelClips": [
+        "Fingers\\33fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip",
+        "Trend\\14fingersRightHand.clip"
+    ]
+}

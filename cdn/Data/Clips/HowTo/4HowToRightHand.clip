@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне глаз",
+    "IconForClip": "HowTo\\4.png",
+    "ModelAnimaitionTextFile": "HowTo\\4HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "все пальцы прямые, прижаты друг к другу (29)",
+    "IconForClip": "Fingers\\29.png",
+    "ModelAnimaitionTextFile": "Fingers\\29fingerLeftHand.animation",
+    "ClipType": 0,
+    "HandType": 0
+}

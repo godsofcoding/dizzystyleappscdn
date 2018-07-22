@@ -1,0 +1,12 @@
+{
+    "Description": "утро (29- 13-3)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\29fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\13HowToRightHand.clip",
+        "Service\\Pause.clip",
+        "Trend\\3fingersRightHand.clip"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "Description": "Х-(буква) (38-5-8)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\38fingersRightHand.clip",
+        "Palm\\5PalmRightHand.clip",
+        "HowTo\\8HowToRightHand.clip"
+    ]
+}

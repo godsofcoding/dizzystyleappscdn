@@ -1,0 +1,10 @@
+{
+    "Description": "14 (четырнадцать)- (55-8-15а-П-8)",
+    "modelClips": [
+        "Fingers\\55fingersLeftRightHand.clip",
+        "Where\\8WhereLeftRightHand.clip",
+        "Trend\\15aTrendLeftRightHand.clip",
+        "Service\\Pause.clip",
+        "Fingers\\8fingersRightHand.clip"
+    ]
+}

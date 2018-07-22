@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне плеч без касания левого плеча (5)",
+    "IconForClip": "Where\\5.png",
+    "ModelAnimaitionTextFile": "Where\\5WhereLeftHand.animation",
+    "ClipType": 4,
+    "HandType": 0
+}

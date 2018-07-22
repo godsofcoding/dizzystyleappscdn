@@ -1,0 +1,7 @@
+{
+    "Description": "вращение кистью (100)",
+    "IconForClip": "Trend\\100.png",
+    "ModelAnimaitionTextFile": "Trend\\100TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

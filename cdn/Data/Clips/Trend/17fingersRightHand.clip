@@ -1,0 +1,7 @@
+{
+    "Description": "обратимое, горизонтальное (17)",
+    "IconForClip": "Trend\\17.png",
+    "ModelAnimaitionTextFile": "Trend\\17-1TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

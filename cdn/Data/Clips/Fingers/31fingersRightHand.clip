@@ -1,0 +1,7 @@
+{
+    "Description": "прямые безымянный и мизинец разведены, остальные прижаты к ладони большим пальцем (31)",
+    "IconForClip": "Fingers\\31.png",
+    "ModelAnimaitionTextFile": "Fingers\\31fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

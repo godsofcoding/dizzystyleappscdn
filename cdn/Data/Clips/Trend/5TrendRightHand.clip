@@ -1,0 +1,7 @@
+{
+    "Description": "к себе (5)",
+    "IconForClip": "Trend\\5.png",
+    "ModelAnimaitionTextFile": "Trend\\5TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

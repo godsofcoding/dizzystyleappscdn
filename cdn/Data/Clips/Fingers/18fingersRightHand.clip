@@ -1,0 +1,7 @@
+{
+    "Description": "ладонь раскрыта, все пальцы полусогнуты - (18)",
+    "IconForClip": "Fingers\\18.png",
+    "ModelAnimaitionTextFile": "Fingers\\18fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

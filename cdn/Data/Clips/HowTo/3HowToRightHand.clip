@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне бровей",
+    "IconForClip": "HowTo\\3.png",
+    "ModelAnimaitionTextFile": "HowTo\\3HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

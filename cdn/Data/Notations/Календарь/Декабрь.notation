@@ -1,0 +1,11 @@
+{
+    "Description": "декабрь (24 - 8-65)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\24fingersRightHand.clip",
+        "Palm\\6PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "Where\\8WhereRightHand.clip",
+        "Trend\\65TrendRightHand.clip"
+    ]
+}

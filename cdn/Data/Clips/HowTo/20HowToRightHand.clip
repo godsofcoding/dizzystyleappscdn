@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне шеи без касания",
+    "IconForClip": "HowTo\\20.png",
+    "ModelAnimaitionTextFile": "HowTo\\20HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "большой палец выпрямлен, остальные прижаты к ладони- (2)" ,
+    "IconForClip": "Fingers\\2.png",
+    "ModelAnimaitionTextFile": "Fingers\\2fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

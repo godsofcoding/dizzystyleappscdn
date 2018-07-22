@@ -1,0 +1,7 @@
+{
+    "Description": "изображение буквы З",
+    "IconForClip": "Trend\\99.png",
+    "ModelAnimaitionTextFile": "Trend\\99TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

@@ -1,0 +1,44 @@
+{
+    "Description": "",
+    "curves": [
+        {
+            "TargetName": "RightArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 25.692785263061525,
+                        "y": 17.28968620300293,
+                        "z": 28.114389419555665
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightForeArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 33.03359603881836,
+                        "y": 49.55005645751953,
+                        "z": 107.5279769897461
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHand",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 41.7137565612793,
+                        "y": 8.955207824707032,
+                        "z": -5.3997802734375
+                    },
+                    "time": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "Description": "неделя ",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\2fingersRightHand.clip",
+        "Where\\7WhereRightHand.clip",
+        "Palm\\3PalmRightHand.clip",
+        "Trend\\11TrendRightHand.clip"
+    ]
+}

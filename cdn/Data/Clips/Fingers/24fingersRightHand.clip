@@ -1,0 +1,7 @@
+{
+    "Description": "три пальца прижаты к ладони, указательный и средний вытянуты в горизонтальном положении - (24)",
+    "IconForClip": "Fingers\\24.png",
+    "ModelAnimaitionTextFile": "Fingers\\24fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

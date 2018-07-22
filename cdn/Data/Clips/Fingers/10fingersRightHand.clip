@@ -1,0 +1,7 @@
+{
+    "Description": "ладонь раскрыта, мизинец и указательный пальцы выпрямлены, остальные соединены подушечками (10)",
+    "IconForClip": "Fingers\\10.png",
+    "ModelAnimaitionTextFile": "Fingers\\10fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

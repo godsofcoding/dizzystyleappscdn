@@ -1,0 +1,13 @@
+{
+    "Description": "день",
+    "modelClips": [
+        "Service\\LeftRightHand.clip",
+        "Fingers\\9fingersLeftRightHand.clip",
+        "Palm\\3PalmLeftRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "Where\\3WhereDoubleHand.clip",
+        "Service\\LeftRightHand.clip",
+        "Trend\\4TrendLeftRightHand.clip",
+        "Fingers\\17fingersLeftRightHand.clip"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "средний и большой пальцы соединены, образуя кольцо, остальные прямые раздвинуты (34)",
+    "IconForClip": "Fingers\\34.png",
+    "ModelAnimaitionTextFile": "Fingers\\34fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

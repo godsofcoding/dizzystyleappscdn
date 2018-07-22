@@ -1,0 +1,7 @@
+{
+    "Description": "от себя полукругом (74)",
+    "IconForClip": "Trend\\74.png",
+    "ModelAnimaitionTextFile": "Trend\\74TrendLeftRightHand.animation",
+    "ClipType": 5,
+    "HandType": 2
+}

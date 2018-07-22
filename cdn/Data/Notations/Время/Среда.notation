@@ -1,0 +1,11 @@
+{
+    "Description": "среда (35-8-97)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\35fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip",
+        "Trend\\97fingersRightHand.clip"
+    ]
+}

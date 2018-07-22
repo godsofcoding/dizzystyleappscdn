@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне груди перед собой (8)",
+    "IconForClip": "Where\\8.png",
+    "ModelAnimaitionTextFile": "Where\\8-1WhereLeftHand.animation",
+    "ClipType": 4,
+    "HandType": 0
+}

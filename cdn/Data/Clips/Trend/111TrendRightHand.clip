@@ -1,0 +1,7 @@
+{
+    "Description": "поворот запястья вокруг своей оси по часовой стрелки (95)",
+    "IconForClip": "Trend\\111.png",
+    "ModelAnimaitionTextFile": "Trend\\95TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

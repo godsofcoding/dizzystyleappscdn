@@ -1,0 +1,7 @@
+{
+    "Description": "Г - буква - большой и указательный палец образуют прямой угол, остальные прижаты к ладони - (49)",
+    "IconForClip": "Fingers\\49.png",
+    "ModelAnimaitionTextFile": "Fingers\\49fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

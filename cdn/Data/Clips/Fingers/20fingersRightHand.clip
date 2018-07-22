@@ -1,0 +1,7 @@
+{
+    "Description": "большой и мизинец соединены, прижаты к ладони, остальные полусогнуты - (20)",
+    "IconForClip": "Fingers\\20.png",
+    "ModelAnimaitionTextFile": "Fingers\\20fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

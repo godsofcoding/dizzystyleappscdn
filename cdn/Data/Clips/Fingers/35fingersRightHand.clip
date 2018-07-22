@@ -1,0 +1,7 @@
+{
+    "Description": "все пальцы прижаты друг к другу, полусогнуты, образуя полукольцо (35)",
+    "IconForClip": "Fingers\\35.png",
+    "ModelAnimaitionTextFile": "Fingers\\35fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

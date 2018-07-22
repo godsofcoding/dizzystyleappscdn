@@ -1,0 +1,7 @@
+{
+    "Description": "все пальцы соединены, прижаты к ладони, указательный палец полусогнут - (22)",
+    "IconForClip": "Fingers\\22.png",
+    "ModelAnimaitionTextFile": "Fingers\\22fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

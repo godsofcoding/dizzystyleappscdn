@@ -1,0 +1,11 @@
+{
+    "Description": "вторник (35-8-97)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\29fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "Where\\7WhereRightHand.clip",
+        "Trend\\97fingersRightHand.clip"
+    ]
+}

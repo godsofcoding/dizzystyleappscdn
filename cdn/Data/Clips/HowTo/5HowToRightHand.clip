@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне носа",
+    "IconForClip": "HowTo\\5.png",
+    "ModelAnimaitionTextFile": "HowTo\\5HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

@@ -1,0 +1,83 @@
+{
+    "Description": "",
+    "curves": [
+        {
+            "TargetName": "RightArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 57.54509353637695,
+                        "y": 46.6530876159668,
+                        "z": 42.795875549316409
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightForeArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 8.53337287902832,
+                        "y": -24.9482421875,
+                        "z": 152.39794921875
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftForeArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 22.1728515625,
+                        "y": -44.19525146484375,
+                        "z": -179.99998474121095
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHand",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 7.3408284187316898,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHand",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 11.31222915649414,
+                        "y": -70.0384521484375,
+                        "z": -5.3997802734375
+                    },
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 54.4205322265625,
+                        "y": -49.1201171875,
+                        "z": -42.3402099609375
+                    },
+                    "time": 1.0
+                }
+            ]
+        }
+    ]
+}

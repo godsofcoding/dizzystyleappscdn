@@ -1,0 +1,7 @@
+{
+    "Description": "прямые указательный, средний и безымянный пальцы разведены, остальные прижаты к ладони большим пальцем (52)",
+    "IconForClip": "Fingers\\52.png",
+    "ModelAnimaitionTextFile": "Fingers\\52fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

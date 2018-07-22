@@ -1,0 +1,11 @@
+{
+    "Description": "воскресенье",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\14fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "Where\\1WhereRightHand.clip",
+        "Trend\\14fingersRightHand.clip"
+    ]
+}

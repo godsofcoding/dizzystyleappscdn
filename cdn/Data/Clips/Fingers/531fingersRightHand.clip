@@ -1,0 +1,7 @@
+{
+    "Description": "прямые указательный и средний пальцы соединены, остальные прижаты к ладони большим пальцем (531)",
+    "IconForClip": "Fingers\\531.png",
+    "ModelAnimaitionTextFile": "Fingers\\531fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

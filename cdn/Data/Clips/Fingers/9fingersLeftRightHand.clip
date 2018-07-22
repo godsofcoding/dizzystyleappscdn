@@ -1,0 +1,7 @@
+{
+    "Description": "ладонь раскрыта, пальцы выпрямлены (9)",
+    "IconForClip": "Fingers\\9.png",
+    "ModelAnimaitionTextFile": "Fingers\\9fingerLefttRightHand.animation",
+    "ClipType": 0,
+    "HandType": 2
+}

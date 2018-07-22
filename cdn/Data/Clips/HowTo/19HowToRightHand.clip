@@ -1,0 +1,7 @@
+{
+    "Description": "над макушкой без касания",
+    "IconForClip": "HowTo\\19.png",
+    "ModelAnimaitionTextFile": "HowTo\\19HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

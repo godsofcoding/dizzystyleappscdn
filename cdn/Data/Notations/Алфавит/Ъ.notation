@@ -1,0 +1,11 @@
+{
+    "Description": "Ъ-буква (4,95)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\4fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip",
+        "Trend\\95TrendRightHand.clip"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "друг к другу, вертикальное",
+    "IconForClip": "Trend\\18.png",
+    "ModelAnimaitionTextFile": "Trend\\18TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

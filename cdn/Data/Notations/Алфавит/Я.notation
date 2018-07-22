@@ -1,0 +1,10 @@
+{
+    "Description": "Я- (42-4-2-8)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\42fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip"
+    ]
+}

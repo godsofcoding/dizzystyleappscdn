@@ -1,0 +1,8 @@
+{
+    "Description": "Т-буква (54)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\54fingersRightHand.clip",
+        "Where\\1WhereRightHand.clip"
+    ]
+}

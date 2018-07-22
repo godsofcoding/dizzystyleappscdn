@@ -1,0 +1,34 @@
+{
+    "Description": "",
+    "PlayMode": 0,
+    "curves": [
+        {
+            "TargetName": "RightShoulder",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 79.52771759033203,
+                        "y": -86.69732666015625,
+                        "z": -179.99998474121095
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "RightArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 46.51095199584961,
+                        "y": 12.806294441223145,
+                        "z": 90.36181640625
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "встречное, горизонтальное с касанием (15а)",
+    "IconForClip": "Trend\\15a.png",
+    "ModelAnimaitionTextFile": "Trend\\15aTrendLeftRightHand.animation",
+    "ClipType": 5,
+    "HandType": 2
+}

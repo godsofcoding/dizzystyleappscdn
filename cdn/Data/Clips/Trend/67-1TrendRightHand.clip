@@ -1,0 +1,7 @@
+{
+    "Description": "круговое, в вертикальном направлении против часовой стрелки (67-1)",
+    "IconForClip": "Trend\\67-1.png",
+    "ModelAnimaitionTextFile": "Trend\\67-1TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

@@ -1,0 +1,10 @@
+{
+    "Description": "К-буква (24)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\24fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip"
+    ]
+}

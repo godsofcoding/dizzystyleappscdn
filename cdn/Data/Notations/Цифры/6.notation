@@ -1,0 +1,12 @@
+{
+    "Description": "6 (шесть) - (л9-4-1 п2-2-10)",
+    "modelClips": [
+        "Fingers\\9fingersLeftHand.clip",
+        "Palm\\4PalmLeftHand.clip",
+        "Where\\1WhereLeftHand.clip",
+        "Fingers\\2fingersRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "Where\\10WhereRightHand.clip",
+        "Trend\\5TrendRightHand.clip"
+    ]
+}

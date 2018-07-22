@@ -1,0 +1,7 @@
+{
+    "Description": "указательный, средний, безымянный и мизинец согнуты в горизонтальном положении, большой прижат ко второму суставу указательного пальца (37)",
+    "IconForClip": "Fingers\\37.png",
+    "ModelAnimaitionTextFile": "Fingers\\37fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

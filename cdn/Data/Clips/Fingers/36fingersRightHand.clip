@@ -1,0 +1,7 @@
+{
+    "Description": "большой и мизинец прямые, остальные прижаты к ладони (36)",
+    "IconForClip": "Fingers\\36.png",
+    "ModelAnimaitionTextFile": "Fingers\\36fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

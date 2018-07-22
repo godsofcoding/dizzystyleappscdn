@@ -1,0 +1,7 @@
+{
+    "Description": "поворот запястья, кисть руки в запястье наклоняется влево (93)",
+    "IconForClip": "Trend\\93.png",
+    "ModelAnimaitionTextFile": "Trend\\93TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

@@ -1,0 +1,11 @@
+{
+    "Description": "Ь- знак (4, 110)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\4fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip",
+        "Trend\\110TrendRightHand.clip"
+    ]
+}

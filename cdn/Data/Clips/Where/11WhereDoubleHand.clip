@@ -1,0 +1,7 @@
+{
+    "Description": "на уровне груди с касанием с двух сторон",
+    "IconForClip": "Where\\11.png",
+    "ModelAnimaitionTextFile": "Where\\11WhereDoubleHand.animation",
+    "ClipType": 4,
+    "HandType": 2
+}

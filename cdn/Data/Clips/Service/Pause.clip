@@ -1,0 +1,7 @@
+{
+    "Description": "Cинхронизации",
+    "IconForClip": "Service\\Sinhro.png",
+    "ModelAnimaitionTextFile": "Service\\SinhroState.animation",
+    "ClipType": 6,
+    "HandType": 1
+}

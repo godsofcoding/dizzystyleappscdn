@@ -1,0 +1,12 @@
+{
+    "Description": "ночь (9-1- 27-74)",
+    "modelClips": [
+        "Service\\LeftRightHand.clip",
+        "Fingers\\9fingersLeftRightHand.clip",
+        "Palm\\3PalmLeftRightHand.clip",
+        "HowTo\\1HowToLeftRightHand.clip",
+        "Service\\LeftRightHand.clip",
+        "Trend\\74TrendLeftRightHand.clip",
+        "Fingers\\27fingersLeftRightHand.clip"
+    ]
+}

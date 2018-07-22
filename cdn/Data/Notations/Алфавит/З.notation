@@ -1,0 +1,11 @@
+{
+    "Description": "З-буква (23-99)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\23fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip",
+        "Trend\\99TrendRightHand.clip"
+    ]
+}

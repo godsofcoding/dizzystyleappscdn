@@ -1,0 +1,7 @@
+{
+    "Description": "повторяющееся вниз (26)",
+    "IconForClip": "Trend\\26.png",
+    "ModelAnimaitionTextFile": "Trend\\26TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

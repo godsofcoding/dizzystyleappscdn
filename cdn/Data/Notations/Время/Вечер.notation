@@ -1,0 +1,12 @@
+{
+    "Description": "Вечер (29-8 29-10-26)",
+    "modelClips": [
+        "Service\\LeftHand.clip",
+        "Fingers\\29fingersLeftHand.clip",
+        "Where\\8WhereLeftHand.clip",
+        "Service\\RightHand.clip",
+        "Fingers\\29fingersRightHand.clip",
+        "Where\\10WhereRightHand.clip",
+        "Trend\\26TrendRightHand.clip"
+    ]
+}

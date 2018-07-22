@@ -1,0 +1,7 @@
+{
+    "Description": "вниз (4)",
+    "IconForClip": "Trend\\4.png",
+    "ModelAnimaitionTextFile": "Trend\\4TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

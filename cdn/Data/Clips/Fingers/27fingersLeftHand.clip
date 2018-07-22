@@ -1,0 +1,7 @@
+{
+    "Description": "все пальцы собраны в кулак, большой выпрямлен, прижат к согнутому указательному (27)",
+    "IconForClip": "Fingers\\27.png",
+    "ModelAnimaitionTextFile": "Fingers\\27fingerLeftHand.animation",
+    "ClipType": 0,
+    "HandType": 0
+}

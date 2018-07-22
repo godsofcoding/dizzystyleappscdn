@@ -1,0 +1,7 @@
+{
+    "Description": "мизинец прямой, остальные пальцы соединены подушечками (41)",
+    "IconForClip": "Fingers\\41.png",
+    "ModelAnimaitionTextFile": "Fingers\\41fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

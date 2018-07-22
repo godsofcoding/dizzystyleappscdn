@@ -1,0 +1,48 @@
+{
+    "Description": "",
+    "PlayMode": 1,
+    "curves": [
+        {
+            "TargetName": "RightArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": -1.8294639587402344,
+                        "y": -0.00000762939453125,
+                        "z": 20.124122619628908
+                    },
+                    "time": 1.0,
+                    "howToChange": 1
+                }
+            ]
+        },
+        {
+            "TargetName": "RightForeArm",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": -4.97808837890625,
+                        "y": 0.000030517578125,
+                        "z": 5.488395690917969
+                    },
+                    "time": 1.0,
+                    "howToChange": 1
+                }
+            ]
+        },
+        {
+            "TargetName": "RightHand",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 3.5762786865234377e-7,
+                        "y": -45.33213424682617,
+                        "z": 5.399790287017822
+                    },
+                    "time": 1.0,
+                    "howToChange": 1
+                }
+            ]
+        }
+    ]
+}

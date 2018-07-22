@@ -1,0 +1,9 @@
+{
+    "Description": "5 (пять) - (9-2-3-8)",
+    "modelClips": [
+        "Fingers\\9fingersRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "Palm\\3PalmRightHand.clip",
+        "HowTo\\8HowToRightHand.clip"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "перед собой на уровне ниже талии без касания",
+    "IconForClip": "Where\\24.png",
+    "ModelAnimaitionTextFile": "Where\\24WhereDoubleHand.animation",
+    "ClipType": 4,
+    "HandType": 2
+}

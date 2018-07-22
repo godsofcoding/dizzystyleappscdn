@@ -1,0 +1,7 @@
+{
+    "Description": "пальцы собраны в кулак - (1)",
+    "IconForClip": "Fingers\\1.png",
+    "ModelAnimaitionTextFile": "Fingers\\1fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

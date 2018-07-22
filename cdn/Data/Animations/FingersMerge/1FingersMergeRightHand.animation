@@ -1,0 +1,18 @@
+{
+    "Description": "",
+    "curves": [
+        {
+            "TargetName": "RightHand",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": -0.000003415094397496432,
+                        "y": -53.74249267578125,
+                        "z": -59.027374267578128
+                    },
+                    "time": 0.5
+                }
+            ]
+        }
+    ]
+}

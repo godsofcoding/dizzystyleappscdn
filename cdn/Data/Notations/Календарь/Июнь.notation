@@ -1,0 +1,9 @@
+{
+    "Description": "Июнь (31-8-32)",
+    "modelClips": [
+        "Fingers\\31fingersRightHand.clip",
+        "HowTo\\8HowToRightHand.clip",
+        "Service\\Pause.clip",
+        "Fingers\\32fingersRightHand.clip"
+    ]
+}

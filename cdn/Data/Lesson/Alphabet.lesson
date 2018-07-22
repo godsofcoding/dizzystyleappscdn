@@ -1,0 +1,10 @@
+{
+    "Name": "Алфавит",
+    "AdditionalPath": "Алфавит\\",
+    "Description": "Русский алфавит длинное описание",
+	"ShortDescription": "Русский алфавит",
+    "notations": [
+        "А",
+        "Б"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Description": "апрель",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\27fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "HowTo\\8HowToRightHand.clip",
+        "Service\\Pause.clip",
+        "Fingers\\53fingersRightHand.clip"
+    ]
+}

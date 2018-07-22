@@ -1,0 +1,7 @@
+{
+    "Description": "указательный, средний, безымянный и мизинец согнуты и опущены на большой палец, направленный в сторону мизинца (30)",
+    "IconForClip": "Fingers\\30.png",
+    "ModelAnimaitionTextFile": "Fingers\\30fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "вверх (3)",
+    "IconForClip": "Trend\\3.png",
+    "ModelAnimaitionTextFile": "Trend\\3TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

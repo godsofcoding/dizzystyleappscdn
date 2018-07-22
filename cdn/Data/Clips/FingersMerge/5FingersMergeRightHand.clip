@@ -1,0 +1,7 @@
+{
+    "Description": "влево (5)",
+    "IconForClip": "FingersMerge\\5.png",
+    "ModelAnimaitionTextFile": "FingersMerge\\5FingersMergeRightHand.animation",
+    "ClipType": 1,
+    "HandType": 1
+}

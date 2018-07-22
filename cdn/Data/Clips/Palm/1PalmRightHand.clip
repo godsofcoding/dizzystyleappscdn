@@ -1,0 +1,7 @@
+{
+    "Description": "вниз (1)",
+    "IconForClip": "Palm\\1.png",
+    "ModelAnimaitionTextFile": "Palm\\1PalmRightHand.animation",
+    "ClipType": 3,
+    "HandType": 1
+}

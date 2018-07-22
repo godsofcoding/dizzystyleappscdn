@@ -1,0 +1,20 @@
+{
+    "Description": "",
+    "PlayMode": 0,
+    "curves": [
+        {
+            "TargetName": "RightHand",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.0,
+                        "y": 113.23468780517578,
+                        "z": 0.0
+                    },
+                    "time": 0.5,
+                    "howToChange": 0
+                }
+            ]
+        }
+    ]
+}

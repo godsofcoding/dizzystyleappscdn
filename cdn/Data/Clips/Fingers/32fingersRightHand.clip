@@ -1,0 +1,7 @@
+{
+    "Description": "безымянный и большой пальцы соединены подушечками, остальные прямые раздвинуты (32)",
+    "IconForClip": "Fingers\\32.png",
+    "ModelAnimaitionTextFile": "Fingers\\32fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

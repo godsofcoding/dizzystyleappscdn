@@ -1,0 +1,10 @@
+{
+    "Description": "Январь (42-4-2-10-17)",
+    "modelClips": [
+        "Fingers\\42fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "Where\\10WhereRightHand.clip",
+        "Trend\\17fingersRightHand.clip"
+    ]
+}

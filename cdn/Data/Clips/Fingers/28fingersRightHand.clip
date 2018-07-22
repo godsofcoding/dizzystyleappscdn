@@ -1,0 +1,7 @@
+{
+    "Description": "Б - буква - указательный палец прямой. средний полусогнут и прижат к указательному, безымянный и мизинец прижаты большим пальцем к ладони - (28)",
+    "IconForClip": "Fingers\\28.png",
+    "ModelAnimaitionTextFile": "Fingers\\28fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

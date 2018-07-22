@@ -1,0 +1,7 @@
+{
+    "Description": "большой и указательный соединены подушечками, образуя кольцо, остальные прямые раздвинуты (33)",
+    "IconForClip": "Fingers\\33.png",
+    "ModelAnimaitionTextFile": "Fingers\\33fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "с касанием лба и подбородка (16)",
+    "IconForClip": "HowTo\\16.png",
+    "ModelAnimaitionTextFile": "HowTo\\16HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

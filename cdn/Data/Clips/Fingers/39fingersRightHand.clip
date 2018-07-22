@@ -1,0 +1,7 @@
+{
+    "Description": "прямые указательный, средний и безымянный пальцы прижаты друг к другу, мизинец прижат большим пальцем к ладони (39)",
+    "IconForClip": "Fingers\\39.png",
+    "ModelAnimaitionTextFile": "Fingers\\39fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

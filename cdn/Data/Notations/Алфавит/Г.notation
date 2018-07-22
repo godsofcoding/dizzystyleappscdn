@@ -1,0 +1,9 @@
+{
+    "Description": "Г -буква- (49-10)",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\49fingersRightHand.clip",
+        "Where\\10WhereRightHand.clip",
+        "FingersMerge\\1FingersMergeRightHand.clip"
+    ]
+}

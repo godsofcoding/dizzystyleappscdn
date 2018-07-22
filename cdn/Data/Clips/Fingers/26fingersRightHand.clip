@@ -1,0 +1,7 @@
+{
+    "Description": "все пальцы согнуты и вытянуты в горизонтальном положении - (26)",
+    "IconForClip": "Fingers\\26.png",
+    "ModelAnimaitionTextFile": "Fingers\\26fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

@@ -1,0 +1,202 @@
+{
+    "Description": "",
+    "PlayMode": 0,
+    "curves": [
+        {
+            "TargetName": "LeftHandIndex1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.01,
+                        "y": 0.01,
+                        "z": -12.714202880859375
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandIndex2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.009999999776482582,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandMiddle1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.009999999776482582,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandMiddle2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.009999999776482582,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandMiddle3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.009999999776482582,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandPinky1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.010000004433095456,
+                        "y": 0.010000001639127732,
+                        "z": 22.12955665588379
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandPinky2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.12071581929922104,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandPinky3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.009999999776482582,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandRing1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.010000001639127732,
+                        "y": 0.009999999776482582,
+                        "z": 8.857766151428223
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandRing2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.009999999776482582,
+                        "z": 0.0555463470518589
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandRing3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.009999999776482582,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandThumb1",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 7.317835807800293,
+                        "y": 18.294591903686525,
+                        "z": -47.16180419921875
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandThumb2",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 0.009999999776482582,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        },
+        {
+            "TargetName": "LeftHandThumb3",
+            "modelRotationNodes": [
+                {
+                    "angle": {
+                        "x": 0.009999999776482582,
+                        "y": 42.07764434814453,
+                        "z": 0.009999999776482582
+                    },
+                    "time": 1.0,
+                    "howToChange": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Description": "с касанием правой щеки (13)",
+    "IconForClip": "HowTo\\13.png",
+    "ModelAnimaitionTextFile": "HowTo\\13-1HowToRightHand.animation",
+    "ClipType": 2,
+    "HandType": 1
+}

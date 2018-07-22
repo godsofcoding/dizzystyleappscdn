@@ -1,0 +1,9 @@
+{
+    "Description": "месяц (2-5-16-4)",
+    "modelClips": [
+        "Fingers\\2fingersRightHand.clip",
+        "FingersMerge\\5FingersMergeRightHand.clip",
+        "HowTo\\16HowToRightHand.clip",
+        "Trend\\4TrendRightHand.clip"
+    ]
+}

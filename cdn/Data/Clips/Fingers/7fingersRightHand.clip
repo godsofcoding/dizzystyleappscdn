@@ -1,0 +1,7 @@
+{
+    "Description": "мизинец и безымянный прижаты к ладони, остальные выпрямлены - (7)",
+    "IconForClip": "Fingers\\7.png",
+    "ModelAnimaitionTextFile": "Fingers\\7fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

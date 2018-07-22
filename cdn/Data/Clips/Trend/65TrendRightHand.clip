@@ -1,0 +1,7 @@
+{
+    "Description": "круговое движение (65)",
+    "IconForClip": "Trend\\65.png",
+    "ModelAnimaitionTextFile": "Trend\\65TrendRightHand.animation",
+    "ClipType": 5,
+    "HandType": 1
+}

@@ -1,0 +1,11 @@
+{
+    "Description": "пятница",
+    "modelClips": [
+        "Service\\RightHand.clip",
+        "Fingers\\531fingersRightHand.clip",
+        "Palm\\4PalmRightHand.clip",
+        "FingersMerge\\2FingersMergeRightHand.clip",
+        "Where\\8WhereRightHand.clip",
+        "Trend\\97fingersRightHand.clip"
+    ]
+}

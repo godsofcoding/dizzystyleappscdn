@@ -1,0 +1,7 @@
+{
+    "Description": "мизинец и большой пальцы прижаты к ладони, указательный, средний и безымянный выпрямлены - (6)",
+    "IconForClip": "Fingers\\6.png",
+    "ModelAnimaitionTextFile": "Fingers\\6fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}

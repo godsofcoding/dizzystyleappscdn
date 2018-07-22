@@ -1,0 +1,7 @@
+{
+    "Description": "большой и указательный пальцы полусогнуты, образуя дугу, остальные прижаты к ладони (40)",
+    "IconForClip": "Fingers\\40.png",
+    "ModelAnimaitionTextFile": "Fingers\\40fingerRightHand.animation",
+    "ClipType": 0,
+    "HandType": 1
+}
